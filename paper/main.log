@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.1.12)  25 NOV 2014 13:41
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.1.12)  25 NOV 2014 20:39
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -941,11 +941,7 @@ File: listings.cfg 2007/02/22 1.4 listings configuration
 ))
 Package: listings 2007/02/22 1.4 (Carsten Heinz)
 
-(./main.aux
-
-LaTeX Warning: Label `table:biblioMTMM' multiply defined.
-
-)
+(./main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 152.
@@ -1023,13 +1019,13 @@ Package caption Info: End \AtBeginDocument code.
 \c@lstlisting=\count212
 
 Package natbib Warning: Citation `Petersen:2008' on page 1 undefined on input l
-ine 207.
+ine 206.
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 221.
+LaTeX Font Info:    Try loading font information for U+msa on input line 220.
 (/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 221.
+LaTeX Font Info:    Try loading font information for U+msb on input line 220.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -1045,8 +1041,12 @@ e 5.
 [1
 
 
-{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}])
-(./conclusions.tex) [2]
+{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+
+LaTeX Warning: Reference `sec:background' on page 2 undefined on input line 25.
+
+
+) (./conclusions.tex [2])
 No file main.bbl.
 
 Package natbib Warning: There were undefined citations.
@@ -1056,17 +1056,20 @@ Package natbib Warning: There were undefined citations.
 
 [3] (./main.aux)
 
-LaTeX Warning: There were multiply-defined labels.
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 24549 strings out of 493315
- 535028 string characters out of 6137904
- 696530 words of memory out of 5000000
- 27462 multiletter control sequences out of 15000+600000
+ 24533 strings out of 493315
+ 534597 string characters out of 6137904
+ 696325 words of memory out of 5000000
+ 27446 multiletter control sequences out of 15000+600000
  12322 words of font info for 47 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 61i,6n,96p,1104b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 61i,5n,96p,1104b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
 /usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></u
@@ -1074,7 +1077,7 @@ sr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/
 local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/l
 ocal/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/lo
 cal/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti7.pfb>
-Output written on main.pdf (3 pages, 94803 bytes).
+Output written on main.pdf (3 pages, 101396 bytes).
 PDF statistics:
  45 PDF objects out of 1000 (max. 8388607)
  32 compressed objects within 1 object stream
