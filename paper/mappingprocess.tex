@@ -1,0 +1,336 @@
+For performing our systematic mapping we adopt the method proposed in \cite{SM} consisting  of five  steps: 
+\begin{enumerate}
+\item \textbf{Definition of research questions}, to determine the research
+scope; 
+\item \textbf{Search of primary papers}, to select candidate papers expressing a   query for retrieving references from scientific
+databases; 
+\item \textbf{Screening of papers}, to identify relevant papers using
+inclusion and exclusion criteria   to narrow
+the number of papers of interest; 
+\item \textbf{Keywording of abstracts}, to identify terms that are used
+for producing  classification schemes named mapping categories; 
+%In this step abstracts are traversed
+%in the search of keywords and concepts related to the contributions
+%of papers. 
+%Keywords and concepts of several papers are combined to
+%produce a classification scheme, namely the mapping categories. The
+%classification scheme is used to unveil the structure of the research
+%area. Introduction and conclusions sections have been investigated
+%in the case of some papers; 
+\item \textbf{Data extraction and mapping process}, to produce the systematic
+mapping by clustering the papers into the mapping categories.
+%Our categorization is based on publication frequencies and gives a
+%broad overview of the research area. 
+\end{enumerate}
+
+%Some additional classification schemes emerged while articles were classified with respect to initial schemes because some categories were merged or splitted.
+
+%During the sorting of articles into the classification schemes (the
+%latter step), some additional classification schemes arose, some of
+%them resulting from the process of merging or splitting previous mapping
+%categories. 
+The results of our systematic mapping are presented as
+bubble plots in the next section. 
+%These visual representations have two main benefits:
+%first, it can easily show how the relevance of the mapping categories
+%has changed over time; second, it can reveal research opportunities
+%hidden on the blanks found among classification categories, pointing
+%topic areas and types of publications yet to be investigated. 
+
+%Notice that systematic mappings are complementary to systematic reviews.
+%Our systematic mapping presents a broader coverage of the research
+%area of interest, producing a thematic summary and disclosing the
+%main scientific sources in a direct and straightforward manner. A
+%systematic review can be later performed to dig into the details of
+%more specific themes. 
+
+%.........................................................
+\subsection{Research questions}
+\label{sec:ResearchQuestions}
+%.........................................................
+
+The  goal of our systematic mapping is to pinpoint evolutions
+on the terminology of service based applications with NFR, discovering trends and the main results
+produced by the community. In order to achieve this goal we formulated three research questions:
+\begin{itemize}
+\item {\em RQ1: Which stages of  the service-based software development process have addressed NFR?} This question is devoted to measure the evolution of publication on NFR in service-based software development and to see  which phases address NFR the most. 
+\item {\em RQ2: What type of solutions have been proposed over the years to deal with NFR for service-based software?} 
+This question will help us to identify how NFR are integrated within methodologies, methods, and also environments used for specifying and implementing NFR for service based applications. This question will help us to cover the publications that address particular NFR for web service based applications. It will let us identify the properties recognized by researchers as NFR according to their discipline.
+
+\item  {\em RQ3: Which is the scope of existing solutions for addressing NFR?} NFR is a vast domain addressing different aspects according to the level of abstraction. For example, they can refer to the characteristics of the services involved in a composition (availability, reliability, economic cost), it can refer to authentication for calling services, and also to atomicity associated to the whole service composition. 
+
+
+\end{itemize}
+
+
+%.........................................................
+\subsection{Search and Screening of Papers}
+
+%\subsection{Expressing the  query for generating a data collection}
+%.........................................................
+Considering the research questions, we defined a set of keywords to be used for searching relevant works. As stated in the background, NFR are properties that represent the business rules of an application. In the early phases of the development of a Web service based application, they are stated in natural language and then they become constraints of different types in the other phases. Throughout these phases they are referred to as non-functional requirement, concern, attribute, aspect. Based on these keywords and their correlated words the query used was:
+
+{\em ("non-functional" OR "non functional" OR quality OR NF OR QoS) AND (property OR requirement OR aspect OR attribute OR parameter OR concern OR constraint OR approach OR policy OR contract) AND ("web service" OR "service composition" OR "service based application" OR "service-based application")
+}
+
+\begin{table}\centering
+\begin{tabular}{|l|c|c|c|} \hline
+\textbf{Source/Action}	& \textbf{Included}	& \textbf{Excluded}	& \textbf{Total}	\\ \hline
+\textit{ACM-DL}				& 33								& 56								& 89						\\ \hline
+\textit{IEEE}						& 71								& 70								& 141					\\ \hline
+\textit{Science Direct}	& 56								& 117							& 173					\\ \hline
+\textit{CiteSeerX}			& 10								& 20								& 30						\\ \hline
+\textbf{Total}					& \textbf{170}			& \textbf{263}			& \textbf{433}	\\ \hline
+\end{tabular}
+\caption{\label{table:Sources}Sources and number of papers.}
+\end{table}
+
+We searched and filtered relevant works in four steps. In the first  step we searched in four databases: \textit{Science Direct}\footnote{\tt http://\dots}, \textit{IEEE}\footnote{\tt http://\dots}, \textit{ACM Digital Library}\footnote{\tt http://\dots} and \textit{CiteSeerX}\footnote{\tt http://\dots} (see table \ref{table:Sources}). We retrieved 433 works. The search was done for relevant publications published between 1998 - 2014. We captured in several spreadsheets (one per database) the title, year,  and abstract of each of the references we found. During the second step we did data cleaning by excluding repeated works.  We performed another filtering procedure by reading the title and the abstract of the papers. We excluded 263 works. The columns \textbf{Included} and \textbf{Excluded} in Table~\ref{table:Sources} show the number of papers that were considered (resp. excluded) on our study.
+Finally, in the last step we built   the final data collection using exclusion and inclusion criteria shown in table \ref{table:criteria}. The final data collection contained 170 papers.
+
+
+\begin{table}\centering
+\begin{tabular}{|l|} \hline
+\textbf{Inclusion criteria}		\\ \hline\hline
+- Text in English								\\ \hline
+- Peer reviewed journals, conferences or workshops	\\ \hline
+- PhD and master thesis	\\ \hline
+- Focus on NFR for service compositions				\\ \hline\hline
+\textbf{Exclusion criteria}		\\ \hline\hline	
+- Abstracts, tutorials, short papers, PhD workshops, demonstrations, technical reports		\\ \hline	
+- Papers dealing with service service lookup		\\ \hline
+- Papers dealing with service matching 	\\ \hline
+\end{tabular}
+\caption{\label{table:criteria} Inclusion and exclusion criteria.}
+\end{table}
+
+%.........................................................
+%\subsection{Defining classification schemes and mapping categories}
+\subsection{Keywording of Abstracts} 
+%.........................................................
+%\textsc{Define each facet here. (including the meaning of each value).}
+
+According to our research questions and to our interests, the papers were classified according to five analysis facets. Analysis facets are classification schemes  that define mapping categories to cluster and analyze the papers. 
+The abstracts of the 170 papers included in our mapping were analyzed to discover their contribution to each of the facets defined for our study.
+The result of this process is a classification of papers for the dimensions of each facet.
+The results are summarized in Tables~\ref{table:biblioSPP} to~\ref{table:biblioMTMM}.
+The six facets with the associated classified references of our SM are described as in the following lines. 
+%\begin{itemize}
+%\paragraph {\bf\em Research type}, refers to the contribution type reported by a reference: {\em validation} , {\em evaluation} ,	{\em solution},	{philosophical} discussion, {\em	opinion} (position paper)	and {\em experience} report.
+
+%_____________________________________________________
+\paragraph {\bf\em Software process phase} 
+%_____________________________________________________
+refers to papers that address the specification of NFR during a given software process phase: {\em specification},	 {\em design},	{\em implementation},	{\em tests},	{\em validation}	and {\em maintenance}.
+
+\begin{table}\centering
+\footnotesize
+\begin{tabular}{|c|c|}\hline
+\textbf{Dimension} & \textbf{References} \\ \hline
+%\multirow{6}{*}{\begin{sideways} \textbf{Sw Pr Phase} \end{sideways} } & 
+%\\ \cline{2-3}
+Specification	& 
+\parbox{0.6\textwidth}{\cite{p005}, \cite{p006}, \cite{p009}, \cite{p012}, \cite{p013}, \cite{p016},  \cite{p017}, \cite{p018}, \cite{p019}, \cite{p020}, \cite{p021}, \cite{p023}, \cite{p024}, \cite{p026},  \cite{p034}, \cite{p036}, \cite{p037}, \cite{p041}, \cite{p043}, \cite{p044}, \cite{p045}, \cite{p046},  \cite{p047}, \cite{p048}, \cite{p055}, \cite{p069}, \cite{p076}, \cite{p077}, \cite{p078}, \cite{p090},  \cite{p091}, \cite{p092}, \cite{p098}, \cite{p099}, \cite{p100}, \cite{p105}, \cite{p109}, \cite{p112},  \cite{p116}, \cite{p118}, \cite{p119}, \cite{p123}, \cite{p124}, \cite{p129}, \cite{p130}, \cite{p131},  \cite{p132}, \cite{p133}, \cite{p134}, \cite{p135}, \cite{p136}, \cite{p146}, \cite{p149}, \cite{p151}.}
+\\ \hline
+Design		&
+\parbox{0.6\textwidth}{\cite{p001}, \cite{p002}, \cite{p003}, \cite{p004}, \cite{p005}, \cite{p007},  \cite{p008}, \cite{p009}, \cite{p010}, \cite{p011}, \cite{p012}, \cite{p014}, \cite{p015}, \cite{p016},  \cite{p017}, \cite{p018}, \cite{p020}, \cite{p023}, \cite{p024}, \cite{p025}, \cite{p026}, \cite{p027},  \cite{p029}, \cite{p031}, \cite{p032}, \cite{p034}, \cite{p036}, \cite{p037}, \cite{p044}, \cite{p046},  \cite{p049}, \cite{p052}, \cite{p053}, \cite{p054}, \cite{p056}, \cite{p057}, \cite{p059}, \cite{p064}, \cite{p065}, \cite{p066}, \cite{p067}, \cite{p069}, \cite{p070}, \cite{p073}, \cite{p074}, \cite{p078}, \cite{p079}, \cite{p080}, \cite{p083}, \cite{p084}, \cite{p085}, \cite{p086}, \cite{p089}, \cite{p091},  \cite{p093}, \cite{p094}, \cite{p095}, \cite{p096}, \cite{p097}, \cite{p098}, \cite{p099}, \cite{p100}, \cite{p101}, \cite{p102}, \cite{p103}, \cite{p104}, \cite{p105}, \cite{p109}, \cite{p110}, \cite{p118}, \cite{p119}, \cite{p120}, \cite{p121}, \cite{p122}, \cite{p124}, \cite{p125}, \cite{p126}, \cite{p127}, \cite{p128}, \cite{p129}, \cite{p130}, \cite{p136}, \cite{p138}, \cite{p139}, \cite{p145}, \cite{p147}, \cite{p148}, \cite{p149}, \cite{p150}, \cite{p151}, \cite{p152}, \cite{p153}, \cite{p154}, \cite{p155}, \cite{p156}, \cite{p157}, \cite{p162}, \cite{p163}, \cite{p165}, \cite{p166}, \cite{p168}, \cite{p169}, \cite{p170}.}
+\\ \hline
+Implementation		&
+\parbox{0.6\textwidth}{\cite{p001}, \cite{p008}, \cite{p020}, \cite{p021}, \cite{p022}, \cite{p029}, \cite{p030}, \cite{p032}, \cite{p033}, \cite{p039}, \cite{p040}, \cite{p046}, \cite{p049}, \cite{p050}, \cite{p051}, \cite{p053}, \cite{p054}, \cite{p058}, \cite{p059}, \cite{p060}, \cite{p062}, \cite{p063}, \cite{p064}, \cite{p065}, \cite{p068}, \cite{p071}, \cite{p072}, \cite{p073}, \cite{p075}, \cite{p079}, \cite{p080}, \cite{p081}, \cite{p086}, \cite{p087}, \cite{p096}, \cite{p105}, \cite{p106}, \cite{p107}, \cite{p111}, \cite{p113}, \cite{p114}, \cite{p115}, \cite{p116}, \cite{p117}, \cite{p119}, \cite{p121}, \cite{p122}, \cite{p124}, \cite{p125}, \cite{p126}, \cite{p137}, \cite{p138}, \cite{p142}, \cite{p143}, \cite{p144}, \cite{p145}, \cite{p151}, \cite{p158}, \cite{p159}, \cite{p160}, \cite{p161}, \cite{p167},\cite{p169}.}
+\\ \hline
+Tests	&	
+\parbox{0.6\textwidth}{\cite{p105}, \cite{p108}, \cite{p124}.}
+\\ \hline
+Validation	&	
+\parbox{0.6\textwidth}{\cite{p021}, \cite{p035}, \cite{p076}, \cite{p105}, \cite{p112}, \cite{p114}\cite{p124}, \cite{p140}.}
+\\ \hline
+Manteinance &	
+\parbox{0.6\textwidth}{\cite{p028}, \cite{p030}, \cite{p033}, \cite{p038}, \cite{p080}, \cite{p081}, \cite{p082}, \cite{p086}, \cite{p087}, \cite{p089}, \cite{p107}, \cite{p109}, \cite{p113}, \cite{p122}, \cite{p124}, \cite{p141}, \cite{p160}.}
+\\ \hline
+\end{tabular}
+\caption{\label{table:biblioSPP} Facet: Software Process Phase.}
+\end{table}
+
+%_____________________________________________________
+\paragraph {\bf\em Contribution} 
+%_____________________________________________________
+refers to the concrete result described in a reference: {\em language},	{\em method}, 	{\em tool}, {\em 	composition algorithm}, {\em	model}, and	{\em process}.
+\begin{table}\centering
+\footnotesize
+\begin{tabular}{|c|c|}\hline
+\textbf{Dimension} & \textbf{References} \\ \hline
+%\multirow{6}{*}{\begin{sideways} \textbf{Sw Pr Phase} \end{sideways} } & 
+%\\ \cline{2-3}
+Language	& 
+\parbox{0.6\textwidth}{\cite{p006}, \cite{p019}, \cite{p033}, \cite{p046}, \cite{p050}, \cite{p058}, \cite{p067}, \cite{p069}, \cite{p083}, \cite{p087}, \cite{p090},  \cite{p098}, \cite{p099}, \cite{p100}, \cite{p109}, \cite{p149}, \cite{p151}.}
+\\ \hline
+Method	& 
+\parbox{0.6\textwidth}{\cite{p008}, \cite{p010}, \cite{p012}, \cite{p015}, \cite{p016},  \cite{p017}, \cite{p023}, \cite{p025}, \cite{p035}, \cite{p036}, \cite{p037}, \cite{p043}, \cite{p044}, \cite{p045}, \cite{p048}, \cite{p065}, \cite{p077}, \cite{p078}, \cite{p079}, \cite{p082}, \cite{p084}, \cite{p085},  \cite{p086}, \cite{p089}, \cite{p093}, \cite{p095}, \cite{p102}, \cite{p108}, \cite{p112}, \cite{p115}, \cite{p118}, \cite{p119}, \cite{p134}, \cite{p135}, \cite{p138}, \cite{p140}, \cite{p143}, \cite{p146}, \cite{p147}, \cite{p148}, \cite{p149}, \cite{p151}, \cite{p154}, \cite{p166}.}
+\\ \hline
+Tool		&
+\parbox{0.6\textwidth}{\cite{p007},  \cite{p009}, \cite{p020}, \cite{p021}, \cite{p030}, \cite{p032}, \cite{p038}, \cite{p039}, \cite{p057}, \cite{p059}, \cite{p063}, \cite{p064}, \cite{p066}, \cite{p071}, \cite{p073}, \cite{p075}, \cite{p076}, \cite{p080}, \cite{p081}, \cite{p091}, \cite{p094}, \cite{p105}, \cite{p106}, \cite{p107}, \cite{p111}, \cite{p113}, \cite{p114}, \cite{p116}, \cite{p121}, \cite{p122}, \cite{p124}, \cite{p125}, \cite{p126}, \cite{p129}, \cite{p130}, \cite{p151}, \cite{p156}, \cite{p158}, \cite{p159}, \cite{p160}, \cite{p165}, \cite{p167}, \cite{p169}.}
+\\ \hline
+Composition Algorithm		&
+\parbox{0.6\textwidth}{\cite{p001}, \cite{p002}, \cite{p003}, \cite{p004}, \cite{p007}, \cite{p008}, \cite{p018}, \cite{p026}, \cite{p027}, \cite{p051}, \cite{p060}, \cite{p062}, \cite{p068}, \cite{p092}, \cite{p097}, \cite{p103}, \cite{p104}, \cite{p116}, \cite{p117}, \cite{p118}, \cite{p120}, \cite{p122}, \cite{p123}, \cite{p125}, \cite{p127}, \cite{p131}, \cite{p132}, \cite{p133}, \cite{p137}, \cite{p144}, \cite{p145}, \cite{p153}, \cite{p155}, \cite{p157}, \cite{p165}.}
+\\ \hline
+Model	&	
+\parbox{0.6\textwidth}{\cite{p005}, \cite{p013}, \cite{p018}, \cite{p022}, \cite{p024}, \cite{p034}, \cite{p055}, \cite{p056}, \cite{p070}, \cite{p072}, \cite{p110}, \cite{p114}, \cite{p150}, \cite{p163}, \cite{p168}.}
+\\ \hline
+Process	&	
+\parbox{0.6\textwidth}{\cite{p009}, \cite{p011}, \cite{p014}, \cite{p023}, \cite{p028}, \cite{p029}, \cite{p031}, \cite{p040}, \cite{p047}, \cite{p049}, \cite{p053}, \cite{p061}, \cite{p074}, \cite{p096}, \cite{p124}, \cite{p128}, \cite{p136}, \cite{p139}, \cite{p141}, \cite{p142}, \cite{p152}, \cite{p161}, \cite{p162}, \cite{p170}.}
+\\ \hline
+\end{tabular}
+\caption{\label{table:biblioContrib} Facet: Contribution.}
+\end{table}
+
+%_____________________________________________________
+\paragraph {\bf\em Paradigm} 
+%_____________________________________________________
+refers to the modelling paradigm used to design NFR for service based applications: {\em model-driven},	{\em middleware}, {\em aspect oriented},	{\em service process language},		{\em semantic}, 	{\em traditional}, {\em other}.
+
+\begin{table}\centering
+\footnotesize
+\begin{tabular}{|c|c|}\hline
+\textbf{Dimension} & \textbf{References} \\ \hline
+%\multirow{6}{*}{\begin{sideways} \textbf{Sw Pr Phase} \end{sideways} } & 
+%\\ \cline{2-3}
+Model-Driven	& 
+\parbox{0.6\textwidth}{\cite{p006}, \cite{p039}, \cite{p064}, \cite{p065}, \cite{p085}, \cite{p086}, \cite{p087}, \cite{p096}, \cite{p110}, \cite{p119}, \cite{p125}, \cite{p149}.
+}
+\\ \hline
+Middleware	& 
+\parbox{0.6\textwidth}{\cite{p002}, \cite{p005}, \cite{p011}, \cite{p013}, \cite{p014}, \cite{p016},  \cite{p018}, \cite{p019}, \cite{p020}, \cite{p022}, \cite{p029}, \cite{p030}, \cite{p032}, \cite{p033}, \cite{p038}, \cite{p053}, \cite{p062}, \cite{p076}, \cite{p082}, \cite{p095}, \cite{p096}, \cite{p105}, \cite{p111}, \cite{p113}, \cite{p114}, \cite{p116},  \cite{p126}, \cite{p127}, \cite{p153}, \cite{p156}, \cite{p162}, \cite{p167}, \cite{p169}.
+}
+\\ \hline
+Aspect-Oriented		&
+\parbox{0.6\textwidth}{\cite{p022}, \cite{p038}, \cite{p039}, \cite{p042}, \cite{p046}, \cite{p080}, \cite{p086}, \cite{p099}, \cite{p100}, \cite{p120}, \cite{p151}.
+}
+\\ \hline
+Software Product Line		&
+\parbox{0.6\textwidth}{\cite{p124}, \cite{p145}.
+}
+\\ \hline
+Semantic	&	
+\parbox{0.6\textwidth}{\cite{p014}, \cite{p015}, \cite{p016},  \cite{p023}, \cite{p044}, \cite{p046}, \cite{p049}, \cite{p054}, \cite{p069}, \cite{p073}, \cite{p080}, \cite{p092}, \cite{p105}, \cite{p106}, \cite{p109}, \cite{p116},  \cite{p117}, \cite{p121}, \cite{p123}, \cite{p139}, \cite{p156}, \cite{p165}, \cite{p168}.
+}
+\\ \hline
+Traditional	&	
+\parbox{0.6\textwidth}{\cite{p026}, \cite{p027}, \cite{p037}, \cite{p048}, \cite{p052}, \cite{p083}, \cite{p098}, \cite{p127}, \cite{p129}, \cite{p138}.
+}
+\\ \hline
+Other	&	
+\parbox{0.6\textwidth}{\cite{p001}, \cite{p003}, \cite{p004}, \cite{p007}, \cite{p008}, \cite{p009}, \cite{p010}, \cite{p012}, \cite{p017}, \cite{p021}, \cite{p024}, \cite{p025}, \cite{p028}, \cite{p031}, \cite{p034}, \cite{p035}, \cite{p036}, \cite{p040}, \cite{p047}, \cite{p050}, \cite{p051}, \cite{p055}, \cite{p056}, \cite{p057}, \cite{p058}, \cite{p059}, \cite{p060}, \cite{p061}, \cite{p063}, \cite{p066}, \cite{p067}, \cite{p068}, \cite{p070}, \cite{p071}, \cite{p072}, \cite{p074}, \cite{p075}, \cite{p077}, \cite{p078}, \cite{p079}, \cite{p084}, \cite{p091}, \cite{p097}, \cite{p112}, \cite{p118}, \cite{p133}, \cite{p137}, \cite{p141}, \cite{p142}, \cite{p143}, \cite{p144}, \cite{p146}, \cite{p147}, \cite{p148}, \cite{p151}.
+}
+\\ \hline
+\end{tabular}
+\caption{\label{table:biblioPara} Facet: Paradigm.}
+\end{table}
+
+%_____________________________________________________
+\paragraph {\bf\em Technique} 
+%_____________________________________________________
+refers to the formal or empirical tool used to develop a solution to deal with NFR within service based applications:  {\em heuristics / optimization},	{\em graphs / planning},	{\em genetic algorithm / genetic programming}	, {\em Petri nets},	{\em formal method},	{\em automata},	{\em agents},	and {\em ad-hoc / other}.
+
+\begin{table}\centering
+\footnotesize
+\begin{tabular}{|c|c|}\hline
+\textbf{Dimension} & \textbf{References} \\ \hline
+%\multirow{6}{*}{\begin{sideways} \textbf{Sw Pr Phase} \end{sideways} } & 
+%\\ \cline{2-3}
+Heuristics/Optimization	& 
+\parbox{0.6\textwidth}{
+\cite{p001}, \cite{p003}, \cite{p004}, \cite{p007}, \cite{p008}, \cite{p011}, \cite{p015}, \cite{p016},  \cite{p025}, \cite{p026}, \cite{p033}, \cite{p036}, \cite{p037}, \cite{p048}, \cite{p056}, \cite{p060}, \cite{p077}, \cite{p079}, \cite{p081}, \cite{p082}, \cite{p084}, \cite{p085}, \cite{p095}, \cite{p102}, \cite{p103}, \cite{p104}, \cite{p106}, \cite{p118}, \cite{p122}, \cite{p123}, \cite{p125}, \cite{p127}, \cite{p128}, \cite{p129}, \cite{p130}, \cite{p131}, \cite{p132}, \cite{p133}, \cite{p135}, \cite{p139}, \cite{p145}, \cite{p148}, \cite{p154}, \cite{p155}, \cite{p158}, \cite{p161}, \cite{p166}, \cite{p167}, \cite{p170}.
+}
+\\ \hline
+Graphs/Planning	& 
+\parbox{0.6\textwidth}{
+\cite{p010}, \cite{p072}, \cite{p116}, \cite{p142}, \cite{p143}, \cite{p152}, \cite{p167}.
+}
+\\ \hline
+Evolutionary Techniques		&
+\parbox{0.6\textwidth}{
+\cite{p008}, \cite{p009}, \cite{p020}, \cite{p030}, \cite{p031}, \cite{p032}, \cite{p036}, \cite{p051}, \cite{p068}, \cite{p113}, \cite{p117}, \cite{p125}, \cite{p137}, \cite{p147}.
+}
+\\ \hline
+Formal Methods	&
+\parbox{0.6\textwidth}{
+\cite{p027}, \cite{p041}, \cite{p055}, \cite{p070}, \cite{p090}, \cite{p092}, \cite{p097}, \cite{p104}, \cite{p112}, \cite{p136}, \cite{p165}.
+}
+\\ \hline
+Automata/Petri Nets	&	
+\parbox{0.6\textwidth}{
+\cite{p013}, \cite{p028}, \cite{p091}, \cite{p104}, \cite{p140}, \cite{p160}.
+}
+\\ \hline
+Agents	&	
+\parbox{0.6\textwidth}{
+\cite{p014}, \cite{p078}, \cite{p141}.
+}
+\\ \hline
+\textit{Ad-hoc}/Other	&	
+\parbox{0.6\textwidth}{
+\cite{p002}, \cite{p004}, \cite{p005}, \cite{p006}, \cite{p009}, \cite{p012}, \cite{p015}, \cite{p018}, \cite{p019}, \cite{p021}, \cite{p023}, \cite{p024}, \cite{p029}, \cite{p034}, \cite{p035}, \cite{p040}, \cite{p044}, \cite{p047}, \cite{p049}, \cite{p050}, \cite{p052}, \cite{p053}, \cite{p057}, \cite{p058}, \cite{p059}, \cite{p061}, \cite{p062}, \cite{p063}, \cite{p064}, \cite{p065}, \cite{p066}, \cite{p067}, \cite{p069}, \cite{p071}, \cite{p073}, \cite{p074}, \cite{p075}, \cite{p076}, \cite{p080}, \cite{p083}, \cite{p094}, \cite{p096}, \cite{p098}, \cite{p100}, \cite{p119}, \cite{p122}, \cite{p128}, \cite{p134}, \cite{p138}, \cite{p146}, \cite{p147}, \cite{p149}, \cite{p150}, \cite{p151}, \cite{p153}, \cite{p156}, \cite{p157}, \cite{p159}, \cite{p163}, \cite{p168}.
+}
+\\ \hline
+\end{tabular}
+\caption{\label{table:biblioMTMM} Facet: Main Technique/Mathematical Model.}
+\end{table}
+
+%_____________________________________________________
+\paragraph{\bf\em NFR type} 
+%_____________________________________________________
+refers to the types identified by the ISO/IEC 9126 ({\em functionality, reliability, usability, efficiency, maintainability, portability}) and it also includes  {\em local/global } and {\em QoS as general parameter}. Each ISO NFR type has associated dimensions that defines it.  The {\em functionality}  refers to suitability, accuracy, interoperability, security, and functionality compliance.	The {\em reliability} of a system is defined by its  maturity, fault tolerance, recoverability, reliability compliance.	The {\em usability} of a system is defined by its understandability, learnability, operability, attractiveness, and usability compliance. The	{\em efficiency} of a system is defined by its  time behaviour, resource utilization,  and efficiency compliance.	The {\em maintainability} of a system is defined by its analyzability, changeability, stability, testability and maintainability compliance.	The {\em portability} of a system is defined by its adaptability, installability, co-existence, replaceability, and portability compliance.					
+%\end{itemize}
+
+\begin{table}\centering
+\footnotesize
+\begin{tabular}{|c|c|}\hline
+\textbf{Dimension} & \textbf{References} \\ \hline
+%\multirow{6}{*}{\begin{sideways} \textbf{Sw Pr Phase} \end{sideways} } & 
+%\\ \cline{2-3}
+Functionality	& 
+\parbox{0.6\textwidth}{
+\cite{p022}, \cite{p026}, \cite{p050}, \cite{p062}, \cite{p063}, \cite{p118}, \cite{p119}, \cite{p120}, \cite{p138}, \cite{p140}, \cite{p147}, \cite{p149}, \cite{p168}.
+}
+\\ \hline
+Reliability	& 
+\parbox{0.6\textwidth}{
+\cite{p012}, \cite{p017}, \cite{p026}, \cite{p062}, \cite{p063}, \cite{p116}, \cite{p118}, \cite{p122}, \cite{p133}, \cite{p147}, \cite{p149}, \cite{p150}, \cite{p152}, \cite{p166}.
+}
+\\ \hline
+Usability	&
+\parbox{0.6\textwidth}{
+\cite{p027}, \cite{p138}, \cite{p147}, \cite{p149}, \cite{p152}.
+}
+\\ \hline
+Efficiency	&
+\parbox{0.6\textwidth}{
+\cite{p017}, \cite{p026}, \cite{p027}, \cite{p050}, \cite{p062}, \cite{p064}, \cite{p115}, \cite{p118}, \cite{p120}, \cite{p124}, \cite{p138}, \cite{p147}, \cite{p149}, \cite{p150}, \cite{p152}, \cite{p160}, \cite{p166}, \cite{p168}.
+}
+\\ \hline
+Maintainability	&	
+\parbox{0.6\textwidth}{
+\cite{p147}, \cite{p149}, \cite{p152}.
+}
+\\ \hline
+Portability	&	
+\parbox{0.6\textwidth}{
+\cite{p122}, \cite{p147}, \cite{p149}, \cite{p152}.
+}
+\\ \hline
+Local/Global QoS	&	
+\parbox{0.6\textwidth}{
+\cite{p013}, \cite{p015}, \cite{p044}, \cite{p048}, \cite{p056}, \cite{p076}, \cite{p081}, \cite{p091}, \cite{p092}, \cite{p093}, \cite{p095}, \cite{p110}, \cite{p114}, \cite{p129}, \cite{p130}, \cite{p132}, \cite{p134}, \cite{p135}, \cite{p139}, \cite{p141}, \cite{p142}, \cite{p161}, \cite{p163}, \cite{p166}.
+}
+\\ \hline
+QoS treated as a general parameter	&	
+\parbox{0.6\textwidth}{
+\cite{p001}, \cite{p002}, \cite{p003}, \cite{p004}, \cite{p005}, \cite{p006}, \cite{p007}, \cite{p008}, \cite{p009}, \cite{p010}, \cite{p011}, \cite{p014}, \cite{p016}, \cite{p018}, \cite{p019}, \cite{p021}, \cite{p023}, \cite{p024}, \cite{p025}, \cite{p028}, \cite{p029}, \cite{p030}, \cite{p031}, \cite{p032}, \cite{p033}, \cite{p034}, \cite{p035}, \cite{p036}, \cite{p038}, \cite{p039}, \cite{p040}, \cite{p042}, \cite{p046}, \cite{p047}, \cite{p048}, \cite{p049}, \cite{p051}, \cite{p052}, \cite{p053}, \cite{p054}, \cite{p055}, \cite{p057}, \cite{p058}, \cite{p059}, \cite{p060}, \cite{p061}, \cite{p065}, \cite{p066}, \cite{p067}, \cite{p068}, \cite{p069}, \cite{p070}, \cite{p071}, \cite{p073}, \cite{p074}, \cite{p075}, \cite{p076}, \cite{p077}, \cite{p078}, \cite{p079}, \cite{p080}, \cite{p082}, \cite{p083}, \cite{p084}, \cite{p085}, \cite{p086}, \cite{p087}, \cite{p088}, \cite{p089}, \cite{p090}, \cite{p094}, \cite{p096}, \cite{p097}, \cite{p098}, \cite{p099}, \cite{p100}, \cite{p101}, \cite{p102}, \cite{p103}, \cite{p104}, \cite{p105}, \cite{p106}, \cite{p107}, \cite{p108}, \cite{p109}, \cite{p111}, \cite{p112}, \cite{p113}, \cite{p117}, \cite{p121}, \cite{p123}, \cite{p124}, \cite{p125}, \cite{p126}, \cite{p127}, \cite{p128}, \cite{p131}, \cite{p134}, \cite{p137}, \cite{p140}, \cite{p143}, \cite{p144}, \cite{p145}, \cite{p146}, \cite{p148}, \cite{p151}, \cite{p153}, \cite{p154}, \cite{p155}, \cite{p156}, \cite{p157}, \cite{p158}, \cite{p159}, \cite{p162}, \cite{p163}, \cite{p164}, \cite{p165}, \cite{p167}, \cite{p169}, \cite{p170}.
+}
+\\ \hline
+\end{tabular}
+\caption{\label{table:biblioMTMM} Facet: NFR Type-ISO/IEC 9126 (Extended).}
+\end{table}
+
+
+We analyzed data quantitatively by reading the papers and by clustering them according to the facets. The following section shows the analysis results and answers our research questions.

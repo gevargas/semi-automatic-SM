@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1300.09"
+   height="752.35999"
+   id="svg5243"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="nfrRelationship.png">
+  <defs
+     id="defs5245">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 376.17999 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1300.09 : 376.17999 : 1"
+       inkscape:persp3d-origin="650.04498 : 250.78666 : 1"
+       id="perspective190" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70976661"
+     inkscape:cx="653.74554"
+     inkscape:cy="376.17999"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="752"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5248">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-300.00213)">
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.10000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path5251"
+       sodipodi:cx="290"
+       sodipodi:cy="226.6479"
+       sodipodi:rx="18.571428"
+       sodipodi:ry="20"
+       d="m 308.57143,226.6479 c 0,11.0457 -8.31471,20 -18.57143,20 -10.25672,0 -18.57143,-8.9543 -18.57143,-20 0,-11.04569 8.31471,-20 18.57143,-20 10.25672,0 18.57143,8.95431 18.57143,20 z"
+       transform="matrix(1.6197444,0,0,1.5262091,111.94002,-2.006596)" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5253"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Newspaper"
+       transform="translate(222.69086,141.89153)"><flowRegion
+         id="flowRegion5255"><rect
+           id="rect5257"
+           width="169.48155"
+           height="67.004333"
+           x="403.9967"
+           y="163.5694" /></flowRegion><flowPara
+         id="flowPara5259"
+         style="font-size:28px">NFR</flowPara></flowRoot>    <image
+       y="445.41321"
+       x="447.88394"
+       id="image5280"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD4AAAA/CAYAAAC4nXvhAAAABHNCSVQICAgIfAhkiAAABWFJREFU aIHlm8tLG10Yxt9zciGXRm0hEF2ooDXBFhqUttiqIC1FXBQxC12IuFJot0WwuCkFC6W46B9Q6CrL 3kgpCF1U5FOs1gsNXrCipp+XGEWTji3J5PkW+WJta7zEmTmaPvDADAPD85tz5nbOexgAkEqSJIn6 +vro48eP5Pf7aWpqijY2NigcDtP379+Jc04mk4msVivZ7XYqLS0lp9NJFRUVVFFRQQaDQa1oXwkK a25uDg8ePEB1dTWMRiOIaMec81/29ztmsVhw69YtPHnyBMvLy0rHDCgCHovF4PV6cfPmzR0AxlhK yMM6eQ69Xo/6+nq8fftWibjAccFlWcazZ89QXFysGOxBLisrw8uXL8WBf/r0CVevXtUM+PdeUFdX hy9fvmgHHo1Gcf/+feh0Os1gU9lkMuHp06fqgwcCAVRVVWneyqmcfJ40NDRgY2NDHfCRkRHY7Xbh sKlcXFyMubk5ZcH7+vpgs9lORCvv57y8PPj9fmXAe3t7YTabTzw0UeL2O3v2LEZHR48HPjo6eipa +nfn5uZiYWEhPfClpSXk5uaeOuikL168iEgkcjRwWZZx48YN4eGP69bW1qOBP3z4UHhopfz8+fPD gfv9fhgMhlPbxXebMYacnBysrq7uDx6Px1FZWSk8sNJuaWnZH/zFixfCQ6phzjmGh4dTg5eXlwsP qZYbGhr2Bvf5fMLDqWnGGMbHx/8Er62tFR5Obbe3t/8Kvri4uO+wUCaYMQabzQZJkgAgwImIvF4v xeNxymQBoHA4TD6fj4iIOBHRmzdvhIbSUq9fv05sRCIR6PV64V1RCzPG4HA4El29v7+fYrGYIlfz pAsALS8v0+fPn/V8eHhYdB7NNTQ0ZORTU1Oic2iuyclJPZ+enhadQ3PNzMzoeSAQEJ1DcwUCAR3f 3NwUnUNTMcYoHA4zLkmS6CyaCgB9+/aN87/lVbZb29vbxI1Go+gcmooxRhaLBdxqtYrOoqkAUFZW FnhOTg4xxkTn0VQ2my3Oi4qKCOpVg5xIFRUVydzpdIrOobnOnz8f5SUlJaJzaC6XyxWjkZER4b+L WppzjmAw+C/Jsoxz585lxATCQWaM4dKlS4n/cc45VVVV/RUPOABUU1NDRP8PPTU1NQkNpKUaGxsT GwAQiURgsVgyurszxlBYWIh4PP5zlNVqtZLH48no7g6Ampubf36sJUfY/X5/xo6tM8ZgtVqxtra2 99xZXV2d8JBq+e7du6knDQcHB8E5z6h7nXMOs9mM+fn51OAA0NbWJjys0u7u7v4d80/wUCgEu92e Ea3OGIPL5cKPHz8OBgeAd+/egTF2quE55zCZTJiYmNgLMXW51507d4SHP64fP36cCi81uCRJuHLl ivDw6fr27duQZfno4AAQDAbhdDqFQxzV169fT86DpwcOAPPz88jPzxcOc1i73W6sr68fhHW46uWF hQWUlJQIhzrI165dO2zd+uHr1VdWVk5UkX7Syc9sj8ezX+1q+uBAYlnGvXv3TsyrjjEGnU6Hnp6e 5F+XOuBJ+Xw+FBYWCmv9ZCu73W4MDAykg5D+KiRJktDZ2alpGUnyIlssFvT09CAajaYb//gL7mZn Z9HW1razqlCNHpA855kzZ9DR0aHEykNlVhoCiVq5rq4uFBQU/BH4OLBEhNLSUjx69AihUEipuAEG KDvsAoA+fPhAr169ovfv39PExMSeNXSccyKiPY/pdDq6fPky1dTUkMfjofLyciUjEhF9ZQD+Ufqs uxUKhXRjY2Pm8fFx8/T0tCkYDBq2trb0W1tbOiKi7OzsWHZ2tuxwOKIul2v7woUL2263ezsrK0vN isPV/wDmqI/2E6Q9kgAAAABJRU5ErkJggg== "
+       height="43.292843"
+       width="42.292843" />
+    <image
+       width="42.292843"
+       height="43.292843"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD4AAAA/CAYAAAC4nXvhAAAABHNCSVQICAgIfAhkiAAABWFJREFU aIHlm8tLG10Yxt9zciGXRm0hEF2ooDXBFhqUttiqIC1FXBQxC12IuFJot0WwuCkFC6W46B9Q6CrL 3kgpCF1U5FOs1gsNXrCipp+XGEWTji3J5PkW+WJta7zEmTmaPvDADAPD85tz5nbOexgAkEqSJIn6 +vro48eP5Pf7aWpqijY2NigcDtP379+Jc04mk4msVivZ7XYqLS0lp9NJFRUVVFFRQQaDQa1oXwkK a25uDg8ePEB1dTWMRiOIaMec81/29ztmsVhw69YtPHnyBMvLy0rHDCgCHovF4PV6cfPmzR0AxlhK yMM6eQ69Xo/6+nq8fftWibjAccFlWcazZ89QXFysGOxBLisrw8uXL8WBf/r0CVevXtUM+PdeUFdX hy9fvmgHHo1Gcf/+feh0Os1gU9lkMuHp06fqgwcCAVRVVWneyqmcfJ40NDRgY2NDHfCRkRHY7Xbh sKlcXFyMubk5ZcH7+vpgs9lORCvv57y8PPj9fmXAe3t7YTabTzw0UeL2O3v2LEZHR48HPjo6eipa +nfn5uZiYWEhPfClpSXk5uaeOuikL168iEgkcjRwWZZx48YN4eGP69bW1qOBP3z4UHhopfz8+fPD gfv9fhgMhlPbxXebMYacnBysrq7uDx6Px1FZWSk8sNJuaWnZH/zFixfCQ6phzjmGh4dTg5eXlwsP qZYbGhr2Bvf5fMLDqWnGGMbHx/8Er62tFR5Obbe3t/8Kvri4uO+wUCaYMQabzQZJkgAgwImIvF4v xeNxymQBoHA4TD6fj4iIOBHRmzdvhIbSUq9fv05sRCIR6PV64V1RCzPG4HA4El29v7+fYrGYIlfz pAsALS8v0+fPn/V8eHhYdB7NNTQ0ZORTU1Oic2iuyclJPZ+enhadQ3PNzMzoeSAQEJ1DcwUCAR3f 3NwUnUNTMcYoHA4zLkmS6CyaCgB9+/aN87/lVbZb29vbxI1Go+gcmooxRhaLBdxqtYrOoqkAUFZW FnhOTg4xxkTn0VQ2my3Oi4qKCOpVg5xIFRUVydzpdIrOobnOnz8f5SUlJaJzaC6XyxWjkZER4b+L WppzjmAw+C/Jsoxz585lxATCQWaM4dKlS4n/cc45VVVV/RUPOABUU1NDRP8PPTU1NQkNpKUaGxsT GwAQiURgsVgyurszxlBYWIh4PP5zlNVqtZLH48no7g6Ampubf36sJUfY/X5/xo6tM8ZgtVqxtra2 99xZXV2d8JBq+e7du6knDQcHB8E5z6h7nXMOs9mM+fn51OAA0NbWJjys0u7u7v4d80/wUCgEu92e Ea3OGIPL5cKPHz8OBgeAd+/egTF2quE55zCZTJiYmNgLMXW51507d4SHP64fP36cCi81uCRJuHLl ivDw6fr27duQZfno4AAQDAbhdDqFQxzV169fT86DpwcOAPPz88jPzxcOc1i73W6sr68fhHW46uWF hQWUlJQIhzrI165dO2zd+uHr1VdWVk5UkX7Syc9sj8ezX+1q+uBAYlnGvXv3TsyrjjEGnU6Hnp6e 5F+XOuBJ+Xw+FBYWCmv9ZCu73W4MDAykg5D+KiRJktDZ2alpGUnyIlssFvT09CAajaYb//gL7mZn Z9HW1razqlCNHpA855kzZ9DR0aHEykNlVhoCiVq5rq4uFBQU/BH4OLBEhNLSUjx69AihUEipuAEG KDvsAoA+fPhAr169ovfv39PExMSeNXSccyKiPY/pdDq6fPky1dTUkMfjofLyciUjEhF9ZQD+Ufqs uxUKhXRjY2Pm8fFx8/T0tCkYDBq2trb0W1tbOiKi7OzsWHZ2tuxwOKIul2v7woUL2263ezsrK0vN isPV/wDmqI/2E6Q9kgAAAABJRU5ErkJggg== "
+       id="image5283"
+       x="660.72125"
+       y="447.38391" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5285"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Newspaper"><flowRegion
+         id="flowRegion5287"><rect
+           id="rect5289"
+           width="218.74944"
+           height="98.535782"
+           x="135.97939"
+           y="396.11386"
+           style="font-size:24px" /></flowRegion><flowPara
+         id="flowPara5291" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5293"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Newspaper"
+       transform="translate(145.83295,80.799344)"><flowRegion
+         id="flowRegion5295"><rect
+           id="rect5297"
+           width="141.89153"
+           height="63.062901"
+           x="191.15942"
+           y="354.72882" /></flowRegion><flowPara
+         id="flowPara5299">Business</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5301"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Newspaper"
+       transform="translate(216.77871,76.857914)"><flowRegion
+         id="flowRegion5303"><rect
+           id="rect5305"
+           width="199.04228"
+           height="53.209324"
+           x="494.64963"
+           y="346.84598" /></flowRegion><flowPara
+         id="flowPara5307">Value</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 471.00104,461.14747 c 0,-98.53578 100.5065,-112.33079 100.5065,-112.33079"
+       id="path5309"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 675.95547,467.05962 c 0,-82.77006 -78.82863,-124.15509 -78.82863,-124.15509"
+       id="path5311"
+       inkscape:connector-curvature="0" />
+    <image
+       y="598.77539"
+       x="833.79065"
+       id="image5332"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACsAAAAsCAYAAAD8WEF4AAAABHNCSVQICAgIfAhkiAAABAVJREFU WIXN2Tsse20cB/DvOY42jlBShFKLBIlLYxAqNHFJxEBMNoMY3rzeVwwmm1GMZouwWCQkIi6T24II MbgGabVRDalKXXp6vv+h6fuWv6r64/gm36FNmueTJ88zPL8KJIk4EwwGcXV1BZfLhe3tbayurmJ3 dxdOpxM+nw8kIcsyMjMzUVZWhurqatTU1CA7OxsmkwmSJMW7JAD8C8YRVVW5tbXFvr4+VlRUMC0t jQDeVVmWWVxczM7OTi4uLsazbDj/vAurKAodDge7u7uZmJj4buBbbWho4ObmJgOBwOdhFUXh8PAw zWbzpyAjm5GRwd7eXl5cXPwZVlVVXl1dsb6+/tORkRUEgRaLhS6Xi6qqfgx7cnLCurq6L4VGNicn h3Nzc/FjDw8P47o8n9XU1FTu7u6+H+t2u2mz2b4dGq7BYODa2tprR+I5NhgMsr29nYIgaIYFQKvV Sr/fHx2rKApHRkY0RUa2p6eHT09Pr2PtdjsLCgo0R4abkJDA6enp17EDAwOaA1+2ubmZd3d3z7FH R0dMSUnRHPeysixzfX39P6xIEqOjo/D5fPhp8fv9GBoa+v8Lj8fDyspKzXcxWiVJ4vHxcWhnLy4u cHx8/BUb8ylRFAWzs7MAAHFvbw83Nzcak97O+vo6/H4/xJWVFa0tMXN+fo6zszNB3Nvb09oSMx6P B06nUxBPTk60tsSM1+uFx+MRxJ9+XgHg8fER9/f3EB8eHrS2xEwgEAhdMJ1Op7UlZiRJgl6vh2gw GLS2xIxer4csyxALCgq0tsSMwWBARkYGxdLSUq0tMWM0GpGTk0Oxrq5Oa0vMmM1mFBYWUiwrK8NP P7dWqzV0wfLy8vDTz21raysAQDQajbBarRpzosdms6GwsDD0gST39/c1f9G+VkmSuLKy8vsbrKur S3Pcy9bW1tLr9f6OPTg4YH5+vubAyE5MTEQOO57PDQYHBzUHAqFhXWtrKxVFiT6R8Xq9bGxs1Bxr sVh4eXkZfSITjsvlYlFRkWbQpKQkTk1NxZ51kaG57PLyMtPT078dajAYODk5yWAw+JL1Ojac09NT 5ubmfhtUlmWOjY1F47yNVVWVGxsbXz75BsDy8nLOzMy8vFDvx4bBiqKwv7+fCQkJXwJtamqi0+mM NaKPjQ1HURQuLCywra2NSUlJfwyUJIk2m43j4+PRzufHseH4/X7u7Oywo6ODOp3uQ9Da2louLS3x 9vb2Pbv5DCuQ8f/DCIQGD/Pz81hbW4PD4YDH44HP58Pj4yNIQq/XIzk5GUajEVlZWaiqqkJLSwtK Sko+shwA/C2Q/OujvwZCz2S32y3a7Xbh+vpauL+/F1RVRXJyMlNTU2EymVSTyaTKsvwnyxDA7C8W BZKZNdPEYAAAAABJRU5ErkJggg== "
+       height="30.20499"
+       width="29.20499" />
+    <image
+       width="29.20499"
+       height="30.20499"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACsAAAAsCAYAAAD8WEF4AAAABHNCSVQICAgIfAhkiAAABAVJREFU WIXN2Tsse20cB/DvOY42jlBShFKLBIlLYxAqNHFJxEBMNoMY3rzeVwwmm1GMZouwWCQkIi6T24II MbgGabVRDalKXXp6vv+h6fuWv6r64/gm36FNmueTJ88zPL8KJIk4EwwGcXV1BZfLhe3tbayurmJ3 dxdOpxM+nw8kIcsyMjMzUVZWhurqatTU1CA7OxsmkwmSJMW7JAD8C8YRVVW5tbXFvr4+VlRUMC0t jQDeVVmWWVxczM7OTi4uLsazbDj/vAurKAodDge7u7uZmJj4buBbbWho4ObmJgOBwOdhFUXh8PAw zWbzpyAjm5GRwd7eXl5cXPwZVlVVXl1dsb6+/tORkRUEgRaLhS6Xi6qqfgx7cnLCurq6L4VGNicn h3Nzc/FjDw8P47o8n9XU1FTu7u6+H+t2u2mz2b4dGq7BYODa2tprR+I5NhgMsr29nYIgaIYFQKvV Sr/fHx2rKApHRkY0RUa2p6eHT09Pr2PtdjsLCgo0R4abkJDA6enp17EDAwOaA1+2ubmZd3d3z7FH R0dMSUnRHPeysixzfX39P6xIEqOjo/D5fPhp8fv9GBoa+v8Lj8fDyspKzXcxWiVJ4vHxcWhnLy4u cHx8/BUb8ylRFAWzs7MAAHFvbw83Nzcak97O+vo6/H4/xJWVFa0tMXN+fo6zszNB3Nvb09oSMx6P B06nUxBPTk60tsSM1+uFx+MRxJ9+XgHg8fER9/f3EB8eHrS2xEwgEAhdMJ1Op7UlZiRJgl6vh2gw GLS2xIxer4csyxALCgq0tsSMwWBARkYGxdLSUq0tMWM0GpGTk0Oxrq5Oa0vMmM1mFBYWUiwrK8NP P7dWqzV0wfLy8vDTz21raysAQDQajbBarRpzosdms6GwsDD0gST39/c1f9G+VkmSuLKy8vsbrKur S3Pcy9bW1tLr9f6OPTg4YH5+vubAyE5MTEQOO57PDQYHBzUHAqFhXWtrKxVFiT6R8Xq9bGxs1Bxr sVh4eXkZfSITjsvlYlFRkWbQpKQkTk1NxZ51kaG57PLyMtPT078dajAYODk5yWAw+JL1Ojac09NT 5ubmfhtUlmWOjY1F47yNVVWVGxsbXz75BsDy8nLOzMy8vFDvx4bBiqKwv7+fCQkJXwJtamqi0+mM NaKPjQ1HURQuLCywra2NSUlJfwyUJIk2m43j4+PRzufHseH4/X7u7Oywo6ODOp3uQ9Da2louLS3x 9vb2Pbv5DCuQ8f/DCIQGD/Pz81hbW4PD4YDH44HP58Pj4yNIQq/XIzk5GUajEVlZWaiqqkJLSwtK Sko+shwA/C2Q/OujvwZCz2S32y3a7Xbh+vpauL+/F1RVRXJyMlNTU2EymVSTyaTKsvwnyxDA7C8W BZKZNdPEYAAAAABJRU5ErkJggg== "
+       id="image5335"
+       x="985.53577"
+       y="594.83398" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5337"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Newspaper"
+       transform="translate(608.95114,3.9652098e-6)"><flowRegion
+         id="flowRegion5339"><rect
+           id="rect5341"
+           width="195.10086"
+           height="86.711494"
+           x="264.0759"
+           y="597.12683" /></flowRegion><flowPara
+         id="flowPara5343">Security</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5345"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Newspaper"
+       transform="translate(417.79171,226.6323)"><flowRegion
+         id="flowRegion5347"><rect
+           id="rect5349"
+           width="165.54012"
+           height="25.619305"
+           x="605.0097"
+           y="366.55313" /></flowRegion><flowPara
+         id="flowPara5351">Reliability</flowPara></flowRoot>    <image
+       width="29.20499"
+       height="30.20499"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACsAAAAsCAYAAAD8WEF4AAAABHNCSVQICAgIfAhkiAAABAVJREFU WIXN2Tsse20cB/DvOY42jlBShFKLBIlLYxAqNHFJxEBMNoMY3rzeVwwmm1GMZouwWCQkIi6T24II MbgGabVRDalKXXp6vv+h6fuWv6r64/gm36FNmueTJ88zPL8KJIk4EwwGcXV1BZfLhe3tbayurmJ3 dxdOpxM+nw8kIcsyMjMzUVZWhurqatTU1CA7OxsmkwmSJMW7JAD8C8YRVVW5tbXFvr4+VlRUMC0t jQDeVVmWWVxczM7OTi4uLsazbDj/vAurKAodDge7u7uZmJj4buBbbWho4ObmJgOBwOdhFUXh8PAw zWbzpyAjm5GRwd7eXl5cXPwZVlVVXl1dsb6+/tORkRUEgRaLhS6Xi6qqfgx7cnLCurq6L4VGNicn h3Nzc/FjDw8P47o8n9XU1FTu7u6+H+t2u2mz2b4dGq7BYODa2tprR+I5NhgMsr29nYIgaIYFQKvV Sr/fHx2rKApHRkY0RUa2p6eHT09Pr2PtdjsLCgo0R4abkJDA6enp17EDAwOaA1+2ubmZd3d3z7FH R0dMSUnRHPeysixzfX39P6xIEqOjo/D5fPhp8fv9GBoa+v8Lj8fDyspKzXcxWiVJ4vHxcWhnLy4u cHx8/BUb8ylRFAWzs7MAAHFvbw83Nzcak97O+vo6/H4/xJWVFa0tMXN+fo6zszNB3Nvb09oSMx6P B06nUxBPTk60tsSM1+uFx+MRxJ9+XgHg8fER9/f3EB8eHrS2xEwgEAhdMJ1Op7UlZiRJgl6vh2gw GLS2xIxer4csyxALCgq0tsSMwWBARkYGxdLSUq0tMWM0GpGTk0Oxrq5Oa0vMmM1mFBYWUiwrK8NP P7dWqzV0wfLy8vDTz21raysAQDQajbBarRpzosdms6GwsDD0gST39/c1f9G+VkmSuLKy8vsbrKur S3Pcy9bW1tLr9f6OPTg4YH5+vubAyE5MTEQOO57PDQYHBzUHAqFhXWtrKxVFiT6R8Xq9bGxs1Bxr sVh4eXkZfSITjsvlYlFRkWbQpKQkTk1NxZ51kaG57PLyMtPT078dajAYODk5yWAw+JL1Ojac09NT 5ubmfhtUlmWOjY1F47yNVVWVGxsbXz75BsDy8nLOzMy8vFDvx4bBiqKwv7+fCQkJXwJtamqi0+mM NaKPjQ1HURQuLCywra2NSUlJfwyUJIk2m43j4+PRzufHseH4/X7u7Oywo6ODOp3uQ9Da2louLS3x 9vb2Pbv5DCuQ8f/DCIQGD/Pz81hbW4PD4YDH44HP58Pj4yNIQq/XIzk5GUajEVlZWaiqqkJLSwtK Sko+shwA/C2Q/OujvwZCz2S32y3a7Xbh+vpauL+/F1RVRXJyMlNTU2EymVSTyaTKsvwnyxDA7C8W BZKZNdPEYAAAAABJRU5ErkJggg== "
+       id="image5353"
+       x="57.32864"
+       y="602.71686" />
+    <image
+       y="602.71686"
+       x="222.86882"
+       id="image5355"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACsAAAAsCAYAAAD8WEF4AAAABHNCSVQICAgIfAhkiAAABAVJREFU WIXN2Tsse20cB/DvOY42jlBShFKLBIlLYxAqNHFJxEBMNoMY3rzeVwwmm1GMZouwWCQkIi6T24II MbgGabVRDalKXXp6vv+h6fuWv6r64/gm36FNmueTJ88zPL8KJIk4EwwGcXV1BZfLhe3tbayurmJ3 dxdOpxM+nw8kIcsyMjMzUVZWhurqatTU1CA7OxsmkwmSJMW7JAD8C8YRVVW5tbXFvr4+VlRUMC0t jQDeVVmWWVxczM7OTi4uLsazbDj/vAurKAodDge7u7uZmJj4buBbbWho4ObmJgOBwOdhFUXh8PAw zWbzpyAjm5GRwd7eXl5cXPwZVlVVXl1dsb6+/tORkRUEgRaLhS6Xi6qqfgx7cnLCurq6L4VGNicn h3Nzc/FjDw8P47o8n9XU1FTu7u6+H+t2u2mz2b4dGq7BYODa2tprR+I5NhgMsr29nYIgaIYFQKvV Sr/fHx2rKApHRkY0RUa2p6eHT09Pr2PtdjsLCgo0R4abkJDA6enp17EDAwOaA1+2ubmZd3d3z7FH R0dMSUnRHPeysixzfX39P6xIEqOjo/D5fPhp8fv9GBoa+v8Lj8fDyspKzXcxWiVJ4vHxcWhnLy4u cHx8/BUb8ylRFAWzs7MAAHFvbw83Nzcak97O+vo6/H4/xJWVFa0tMXN+fo6zszNB3Nvb09oSMx6P B06nUxBPTk60tsSM1+uFx+MRxJ9+XgHg8fER9/f3EB8eHrS2xEwgEAhdMJ1Op7UlZiRJgl6vh2gw GLS2xIxer4csyxALCgq0tsSMwWBARkYGxdLSUq0tMWM0GpGTk0Oxrq5Oa0vMmM1mFBYWUiwrK8NP P7dWqzV0wfLy8vDTz21raysAQDQajbBarRpzosdms6GwsDD0gST39/c1f9G+VkmSuLKy8vsbrKur S3Pcy9bW1tLr9f6OPTg4YH5+vubAyE5MTEQOO57PDQYHBzUHAqFhXWtrKxVFiT6R8Xq9bGxs1Bxr sVh4eXkZfSITjsvlYlFRkWbQpKQkTk1NxZ51kaG57PLyMtPT078dajAYODk5yWAw+JL1Ojac09NT 5ubmfhtUlmWOjY1F47yNVVWVGxsbXz75BsDy8nLOzMy8vFDvx4bBiqKwv7+fCQkJXwJtamqi0+mM NaKPjQ1HURQuLCywra2NSUlJfwyUJIk2m43j4+PRzufHseH4/X7u7Oywo6ODOp3uQ9Da2louLS3x 9vb2Pbv5DCuQ8f/DCIQGD/Pz81hbW4PD4YDH44HP58Pj4yNIQq/XIzk5GUajEVlZWaiqqkJLSwtK Sko+shwA/C2Q/OujvwZCz2S32y3a7Xbh+vpauL+/F1RVRXJyMlNTU2EymVSTyaTKsvwnyxDA7C8W BZKZNdPEYAAAAABJRU5ErkJggg== "
+       height="30.20499"
+       width="29.20499" />
+    <flowRoot
+       transform="translate(-171.45228,7.882864)"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Newspaper"
+       id="flowRoot5357"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5359"><rect
+           y="597.12683"
+           x="264.0759"
+           height="86.711494"
+           width="195.10086"
+           id="rect5361" /></flowRegion><flowPara
+         id="flowPara5363">Usability</flowPara></flowRoot>    <flowRoot
+       transform="translate(-346.84598,236.48588)"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Newspaper"
+       id="flowRoot5365"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5367"><rect
+           y="366.55313"
+           x="605.0097"
+           height="25.619305"
+           width="165.54012"
+           id="rect5369" /></flowRegion><flowPara
+         id="flowPara5371">Interoperability</flowPara></flowRoot>    <image
+       y="600.74615"
+       x="449.50107"
+       id="image5373"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACsAAAAsCAYAAAD8WEF4AAAABHNCSVQICAgIfAhkiAAABAVJREFU WIXN2Tsse20cB/DvOY42jlBShFKLBIlLYxAqNHFJxEBMNoMY3rzeVwwmm1GMZouwWCQkIi6T24II MbgGabVRDalKXXp6vv+h6fuWv6r64/gm36FNmueTJ88zPL8KJIk4EwwGcXV1BZfLhe3tbayurmJ3 dxdOpxM+nw8kIcsyMjMzUVZWhurqatTU1CA7OxsmkwmSJMW7JAD8C8YRVVW5tbXFvr4+VlRUMC0t jQDeVVmWWVxczM7OTi4uLsazbDj/vAurKAodDge7u7uZmJj4buBbbWho4ObmJgOBwOdhFUXh8PAw zWbzpyAjm5GRwd7eXl5cXPwZVlVVXl1dsb6+/tORkRUEgRaLhS6Xi6qqfgx7cnLCurq6L4VGNicn h3Nzc/FjDw8P47o8n9XU1FTu7u6+H+t2u2mz2b4dGq7BYODa2tprR+I5NhgMsr29nYIgaIYFQKvV Sr/fHx2rKApHRkY0RUa2p6eHT09Pr2PtdjsLCgo0R4abkJDA6enp17EDAwOaA1+2ubmZd3d3z7FH R0dMSUnRHPeysixzfX39P6xIEqOjo/D5fPhp8fv9GBoa+v8Lj8fDyspKzXcxWiVJ4vHxcWhnLy4u cHx8/BUb8ylRFAWzs7MAAHFvbw83Nzcak97O+vo6/H4/xJWVFa0tMXN+fo6zszNB3Nvb09oSMx6P B06nUxBPTk60tsSM1+uFx+MRxJ9+XgHg8fER9/f3EB8eHrS2xEwgEAhdMJ1Op7UlZiRJgl6vh2gw GLS2xIxer4csyxALCgq0tsSMwWBARkYGxdLSUq0tMWM0GpGTk0Oxrq5Oa0vMmM1mFBYWUiwrK8NP P7dWqzV0wfLy8vDTz21raysAQDQajbBarRpzosdms6GwsDD0gST39/c1f9G+VkmSuLKy8vsbrKur S3Pcy9bW1tLr9f6OPTg4YH5+vubAyE5MTEQOO57PDQYHBzUHAqFhXWtrKxVFiT6R8Xq9bGxs1Bxr sVh4eXkZfSITjsvlYlFRkWbQpKQkTk1NxZ51kaG57PLyMtPT078dajAYODk5yWAw+JL1Ojac09NT 5ubmfhtUlmWOjY1F47yNVVWVGxsbXz75BsDy8nLOzMy8vFDvx4bBiqKwv7+fCQkJXwJtamqi0+mM NaKPjQ1HURQuLCywra2NSUlJfwyUJIk2m43j4+PRzufHseH4/X7u7Oywo6ODOp3uQ9Da2louLS3x 9vb2Pbv5DCuQ8f/DCIQGD/Pz81hbW4PD4YDH44HP58Pj4yNIQq/XIzk5GUajEVlZWaiqqkJLSwtK Sko+shwA/C2Q/OujvwZCz2S32y3a7Xbh+vpauL+/F1RVRXJyMlNTU2EymVSTyaTKsvwnyxDA7C8W BZKZNdPEYAAAAABJRU5ErkJggg== "
+       height="30.20499"
+       width="29.20499" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5377"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Newspaper"
+       transform="translate(220.72015,3.941434)"><flowRegion
+         id="flowRegion5379"><rect
+           id="rect5381"
+           width="195.10086"
+           height="86.711494"
+           x="264.0759"
+           y="597.12683" /></flowRegion><flowPara
+         id="flowPara5383">Availability</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5385"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Newspaper"
+       transform="translate(57.98905,236.77119)"><flowRegion
+         id="flowRegion5387"><rect
+           id="rect5389"
+           width="165.54012"
+           height="25.619305"
+           x="605.0097"
+           y="366.55313" /></flowRegion><flowPara
+         id="flowPara5391">Performance</flowPara></flowRoot>    <image
+       y="823.43701"
+       x="1022.9794"
+       id="image5407"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACsAAAAsCAYAAAD8WEF4AAAABHNCSVQICAgIfAhkiAAABAVJREFU WIXN2Tsse20cB/DvOY42jlBShFKLBIlLYxAqNHFJxEBMNoMY3rzeVwwmm1GMZouwWCQkIi6T24II MbgGabVRDalKXXp6vv+h6fuWv6r64/gm36FNmueTJ88zPL8KJIk4EwwGcXV1BZfLhe3tbayurmJ3 dxdOpxM+nw8kIcsyMjMzUVZWhurqatTU1CA7OxsmkwmSJMW7JAD8C8YRVVW5tbXFvr4+VlRUMC0t jQDeVVmWWVxczM7OTi4uLsazbDj/vAurKAodDge7u7uZmJj4buBbbWho4ObmJgOBwOdhFUXh8PAw zWbzpyAjm5GRwd7eXl5cXPwZVlVVXl1dsb6+/tORkRUEgRaLhS6Xi6qqfgx7cnLCurq6L4VGNicn h3Nzc/FjDw8P47o8n9XU1FTu7u6+H+t2u2mz2b4dGq7BYODa2tprR+I5NhgMsr29nYIgaIYFQKvV Sr/fHx2rKApHRkY0RUa2p6eHT09Pr2PtdjsLCgo0R4abkJDA6enp17EDAwOaA1+2ubmZd3d3z7FH R0dMSUnRHPeysixzfX39P6xIEqOjo/D5fPhp8fv9GBoa+v8Lj8fDyspKzXcxWiVJ4vHxcWhnLy4u cHx8/BUb8ylRFAWzs7MAAHFvbw83Nzcak97O+vo6/H4/xJWVFa0tMXN+fo6zszNB3Nvb09oSMx6P B06nUxBPTk60tsSM1+uFx+MRxJ9+XgHg8fER9/f3EB8eHrS2xEwgEAhdMJ1Op7UlZiRJgl6vh2gw GLS2xIxer4csyxALCgq0tsSMwWBARkYGxdLSUq0tMWM0GpGTk0Oxrq5Oa0vMmM1mFBYWUiwrK8NP P7dWqzV0wfLy8vDTz21raysAQDQajbBarRpzosdms6GwsDD0gST39/c1f9G+VkmSuLKy8vsbrKur S3Pcy9bW1tLr9f6OPTg4YH5+vubAyE5MTEQOO57PDQYHBzUHAqFhXWtrKxVFiT6R8Xq9bGxs1Bxr sVh4eXkZfSITjsvlYlFRkWbQpKQkTk1NxZ51kaG57PLyMtPT078dajAYODk5yWAw+JL1Ojac09NT 5ubmfhtUlmWOjY1F47yNVVWVGxsbXz75BsDy8nLOzMy8vFDvx4bBiqKwv7+fCQkJXwJtamqi0+mM NaKPjQ1HURQuLCywra2NSUlJfwyUJIk2m43j4+PRzufHseH4/X7u7Oywo6ODOp3uQ9Da2louLS3x 9vb2Pbv5DCuQ8f/DCIQGD/Pz81hbW4PD4YDH44HP58Pj4yNIQq/XIzk5GUajEVlZWaiqqkJLSwtK Sko+shwA/C2Q/OujvwZCz2S32y3a7Xbh+vpauL+/F1RVRXJyMlNTU2EymVSTyaTKsvwnyxDA7C8W BZKZNdPEYAAAAABJRU5ErkJggg== "
+       height="10.497833"
+       width="9.4978342" />
+    <image
+       y="824.17139"
+       x="1122.2494"
+       id="image5430"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAALCAYAAABGbhwYAAAABHNCSVQICAgIfAhkiAAAAJtJREFU GJWNjz0Kg2AQRN+u2ljbi9h7D0/lNeIdUngmCwv7DwuVSZG/L5BoHkyxy2Ng0INhGJSmqQABattW ET2S1DTNS4jj7m9xnuev0jNZlklS71VVccS6rgB4COFQBJimyfzUApZlwd3P3bqu5V3X/VMKkmRm P1dv23ZfDbDvO2VZfhSYGSEEkiS535IusTCOoxdFoTzPFb2vN6Flbq5dpeMGAAAAAElFTkSuQmCC  "
+       height="11"
+       width="10" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5433"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Newspaper"
+       transform="translate(342.90452,204.95443)"><flowRegion
+         id="flowRegion5435"><rect
+           id="rect5437"
+           width="112.3308"
+           height="43.355747"
+           x="754.78412"
+           y="646.39478" /></flowRegion><flowPara
+         id="flowPara5439">Resource</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5441"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Newspaper"
+       transform="translate(335.02166,260.13447)"><flowRegion
+         id="flowRegion5443"><rect
+           id="rect5445"
+           width="118.24294"
+           height="59.121471"
+           x="656.24835"
+           y="595.15613" /></flowRegion><flowPara
+         id="flowPara5447">Integrity</flowPara></flowRoot>    <image
+       y="906.94141"
+       x="958.68005"
+       id="image5468"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAALCAYAAABGbhwYAAAABHNCSVQICAgIfAhkiAAAAJtJREFU GJWNjz0Kg2AQRN+u2ljbi9h7D0/lNeIdUngmCwv7DwuVSZG/L5BoHkyxy2Ng0INhGJSmqQABattW ET2S1DTNS4jj7m9xnuev0jNZlklS71VVccS6rgB4COFQBJimyfzUApZlwd3P3bqu5V3X/VMKkmRm P1dv23ZfDbDvO2VZfhSYGSEEkiS535IusTCOoxdFoTzPFb2vN6Flbq5dpeMGAAAAAElFTkSuQmCC  "
+       height="11"
+       width="10" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5471"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Newspaper"
+       transform="translate(356.69954,232.54445)"><flowRegion
+         id="flowRegion5473"><rect
+           id="rect5475"
+           width="135.9794"
+           height="29.560753"
+           x="605.0097"
+           y="685.80908" /></flowRegion><flowPara
+         id="flowPara5477">Accessability</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5479"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Newspaper"
+       transform="translate(604.95114,305.40237)"><flowRegion
+         id="flowRegion5481"><rect
+           id="rect5483"
+           width="177.36438"
+           height="39.414333"
+           x="488.73749"
+           y="614.86328" /></flowRegion><flowPara
+         id="flowPara5485">Confidentiability</flowPara></flowRoot>    <image
+       y="835.99561"
+       x="889.70496"
+       id="image5506"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAALCAYAAABGbhwYAAAABHNCSVQICAgIfAhkiAAAAJtJREFU GJWNjz0Kg2AQRN+u2ljbi9h7D0/lNeIdUngmCwv7DwuVSZG/L5BoHkyxy2Ng0INhGJSmqQABattW ET2S1DTNS4jj7m9xnuev0jNZlklS71VVccS6rgB4COFQBJimyfzUApZlwd3P3bqu5V3X/VMKkmRm P1dv23ZfDbDvO2VZfhSYGSEEkiS535IusTCOoxdFoTzPFb2vN6Flbq5dpeMGAAAAAElFTkSuQmCC  "
+       height="11"
+       width="10" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5509"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Newspaper"
+       transform="translate(431.58674,175.3937)"><flowRegion
+         id="flowRegion5511"><rect
+           id="rect5513"
+           width="141.89153"
+           height="53.209324"
+           x="392.17242"
+           y="677.92621" /></flowRegion><flowPara
+         id="flowPara5515">Access control</flowPara></flowRoot>    <image
+       y="908.91205"
+       x="1102.5422"
+       id="image5536"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAALCAYAAABGbhwYAAAABHNCSVQICAgIfAhkiAAAAJtJREFU GJWNjz0Kg2AQRN+u2ljbi9h7D0/lNeIdUngmCwv7DwuVSZG/L5BoHkyxy2Ng0INhGJSmqQABattW ET2S1DTNS4jj7m9xnuev0jNZlklS71VVccS6rgB4COFQBJimyfzUApZlwd3P3bqu5V3X/VMKkmRm P1dv23ZfDbDvO2VZfhSYGSEEkiS535IusTCOoxdFoTzPFb2vN6Flbq5dpeMGAAAAAElFTkSuQmCC  "
+       height="11"
+       width="10" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 1127.2494,825.72983 C 1083.8936,675.95543 1003.0943,606.98038 1003.0943,606.98038"
+       id="path5549"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 1105.5715,910.47059 C 1028.7136,735.0769 1003.0943,620.77539 1003.0943,620.77539"
+       id="path5551"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 1028.7136,825.72982 C 999.15278,670.04328 999.15278,612.89252 999.15278,612.89252"
+       id="path5557"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 963.65072,912.44131 c 5.9121,-214.80801 33.50206,-295.60736 33.50206,-295.60736"
+       id="path5559"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 894.70492,841.49554 C 934.11923,697.6333 995.21142,610.92181 995.21142,610.92181"
+       id="path5561"
+       inkscape:connector-curvature="0" />
+    <image
+       y="770.96204"
+       x="119.15509"
+       id="image5629"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAALCAYAAABGbhwYAAAABHNCSVQICAgIfAhkiAAAAJtJREFU GJWNjz0Kg2AQRN+u2ljbi9h7D0/lNeIdUngmCwv7DwuVSZG/L5BoHkyxy2Ng0INhGJSmqQABattW ET2S1DTNS4jj7m9xnuev0jNZlklS71VVccS6rgB4COFQBJimyfzUApZlwd3P3bqu5V3X/VMKkmRm P1dv23ZfDbDvO2VZfhSYGSEEkiS535IusTCOoxdFoTzPFb2vN6Flbq5dpeMGAAAAAElFTkSuQmCC  "
+       height="11"
+       width="10" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5631"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Newspaper"
+       transform="translate(-220.72017,110.36222)"><flowRegion
+         id="flowRegion5633"><rect
+           id="rect5635"
+           width="159.62798"
+           height="53.209324"
+           x="317.28522"
+           y="683.83612" /></flowRegion><flowPara
+         id="flowPara5637">Platform</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 70.945769,616.83395 C 197.07156,494.64958 469.03033,471.00099 469.03033,471.00099"
+       id="path5643"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 847.40774,616.83395 C 768.57911,534.0639 472.97176,472.97171 472.97176,472.97171"
+       id="path5645"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 847.40774,605.00966 c 0,-86.71149 -161.59869,-132.03795 -161.59869,-132.03795"
+       id="path5647"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 997.18212,603.03895 C 989.29932,508.44459 693.69192,463.11813 693.69192,463.11813"
+       id="path5649"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 234.51516,614.86324 C 303.49021,538.00533 471.00104,472.97171 471.00104,472.97171"
+       id="path5651"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 640.48259,614.86324 C 616.834,536.03461 472.97176,474.94242 472.97176,474.94242"
+       id="path5653"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 461.14746,612.89252 c -7.88286,-76.85791 5.91215,-134.00866 5.91215,-134.00866"
+       id="path5655"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 76.857909,620.77539 c 47.297171,63.0629 47.297171,149.77439 47.297171,149.77439"
+       id="path5657"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5659"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Newspaper"
+       transform="translate(-94.594354,220.7223)"><flowRegion
+         id="flowRegion5661"><rect
+           id="rect5663"
+           width="210.86658"
+           height="21.677874"
+           x="295.60736"
+           y="569.53467" /></flowRegion><flowPara
+         id="flowPara5665">Conformability</flowPara></flowRoot>    <image
+       y="770.96204"
+       x="227.54445"
+       id="image5667"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAALCAYAAABGbhwYAAAABHNCSVQICAgIfAhkiAAAAJtJREFU GJWNjz0Kg2AQRN+u2ljbi9h7D0/lNeIdUngmCwv7DwuVSZG/L5BoHkyxy2Ng0INhGJSmqQABattW ET2S1DTNS4jj7m9xnuev0jNZlklS71VVccS6rgB4COFQBJimyfzUApZlwd3P3bqu5V3X/VMKkmRm P1dv23ZfDbDvO2VZfhSYGSEEkiS535IusTCOoxdFoTzPFb2vN6Flbq5dpeMGAAAAAElFTkSuQmCC  "
+       height="11"
+       width="10" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 124.15508,774.49121 C 157.65725,679.89686 234.51516,624.71682 234.51516,624.71682"
+       id="path5669"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 232.54445,776.46194 c 15.76572,-57.15076 5.91214,-151.74511 5.91214,-151.74511"
+       id="path5671"
+       inkscape:connector-curvature="0" />
+    <image
+       width="10"
+       height="11"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAALCAYAAABGbhwYAAAABHNCSVQICAgIfAhkiAAAAJtJREFU GJWNjz0Kg2AQRN+u2ljbi9h7D0/lNeIdUngmCwv7DwuVSZG/L5BoHkyxy2Ng0INhGJSmqQABattW ET2S1DTNS4jj7m9xnuev0jNZlklS71VVccS6rgB4COFQBJimyfzUApZlwd3P3bqu5V3X/VMKkmRm P1dv23ZfDbDvO2VZfhSYGSEEkiS535IusTCOoxdFoTzPFb2vN6Flbq5dpeMGAAAAAElFTkSuQmCC  "
+       id="image5673"
+       x="663.07269"
+       y="873.43927" />
+    <image
+       y="794.61066"
+       x="385.20172"
+       id="image5675"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAALCAYAAABGbhwYAAAABHNCSVQICAgIfAhkiAAAAJtJREFU GJWNjz0Kg2AQRN+u2ljbi9h7D0/lNeIdUngmCwv7DwuVSZG/L5BoHkyxy2Ng0INhGJSmqQABattW ET2S1DTNS4jj7m9xnuev0jNZlklS71VVccS6rgB4COFQBJimyfzUApZlwd3P3bqu5V3X/VMKkmRm P1dv23ZfDbDvO2VZfhSYGSEEkiS535IusTCOoxdFoTzPFb2vN6Flbq5dpeMGAAAAAElFTkSuQmCC  "
+       height="11"
+       width="10" />
+    <image
+       width="10"
+       height="11"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAALCAYAAABGbhwYAAAABHNCSVQICAgIfAhkiAAAAJtJREFU GJWNjz0Kg2AQRN+u2ljbi9h7D0/lNeIdUngmCwv7DwuVSZG/L5BoHkyxy2Ng0INhGJSmqQABattW ET2S1DTNS4jj7m9xnuev0jNZlklS71VVccS6rgB4COFQBJimyfzUApZlwd3P3bqu5V3X/VMKkmRm P1dv23ZfDbDvO2VZfhSYGSEEkiS535IusTCOoxdFoTzPFb2vN6Flbq5dpeMGAAAAAElFTkSuQmCC  "
+       id="image5677"
+       x="466.0011"
+       y="790.66925" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5679"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Newspaper"
+       transform="translate(-29.560736,185.24942)"><flowRegion
+         id="flowRegion5681"><rect
+           id="rect5683"
+           width="171.4523"
+           height="41.385025"
+           x="492.67892"
+           y="620.77325" /></flowRegion><flowPara
+         id="flowPara5685">Capacity</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5687"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Newspaper"
+       transform="translate(-53.209324,189.19085)"><flowRegion
+         id="flowRegion5689"><rect
+           id="rect5691"
+           width="179.33513"
+           height="45.326462"
+           x="413.85031"
+           y="622.74396" /></flowRegion><flowPara
+         id="flowPara5693">Time </flowPara><flowPara
+         id="flowPara5695">constraint</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 388.23098,798.1398 c 9.85358,-80.79934 70.94577,-177.36441 70.94577,-177.36441"
+       id="path5697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 463.11818,618.80467 c 35.47288,104.44793 7.88286,177.36441 7.88286,177.36441"
+       id="path5699"
+       inkscape:connector-curvature="0" />
+    <image
+       y="784.75702"
+       x="582.27332"
+       id="image5701"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAALCAYAAABGbhwYAAAABHNCSVQICAgIfAhkiAAAAJtJREFU GJWNjz0Kg2AQRN+u2ljbi9h7D0/lNeIdUngmCwv7DwuVSZG/L5BoHkyxy2Ng0INhGJSmqQABattW ET2S1DTNS4jj7m9xnuev0jNZlklS71VVccS6rgB4COFQBJimyfzUApZlwd3P3bqu5V3X/VMKkmRm P1dv23ZfDbDvO2VZfhSYGSEEkiS535IusTCOoxdFoTzPFb2vN6Flbq5dpeMGAAAAAElFTkSuQmCC  "
+       height="11"
+       width="10" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5703"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Newspaper"
+       transform="translate(-55.18004,191.16157)"><flowRegion
+         id="flowRegion5705"><rect
+           id="rect5707"
+           width="179.33513"
+           height="59.121471"
+           x="620.77545"
+           y="616.83179" /></flowRegion><flowPara
+         id="flowPara5709">Transaction</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 650.33617,620.77539 C 530.12251,713.39902 471.00104,796.16908 471.00104,796.16908"
+       id="path5711"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 644.42402,624.71682 C 581.36112,735.0769 585.30255,790.25694 585.30255,790.25694"
+       id="path5713"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 650.33617,618.80467 C 536.03466,768.57906 545.88824,886.82201 545.88824,886.82201 439.46959,815.87624 388.23098,798.1398 388.23098,798.1398"
+       id="path5715"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 841.49559,618.80467 C 894.70492,703.54545 892.7342,835.5834 892.7342,835.5834"
+       id="path5719"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 851.34917,616.83395 c -238.4566,112.3308 -264.0759,173.42299 -264.0759,173.42299"
+       id="path5721"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 851.34917,616.83395 c 84.74078,187.218 177.36443,210.86658 177.36443,210.86658"
+       id="path5723"
+       inkscape:connector-curvature="0" />
+    <image
+       y="942.41431"
+       x="759.6377"
+       id="image5725"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAALCAYAAABGbhwYAAAABHNCSVQICAgIfAhkiAAAAJtJREFU GJWNjz0Kg2AQRN+u2ljbi9h7D0/lNeIdUngmCwv7DwuVSZG/L5BoHkyxy2Ng0INhGJSmqQABattW ET2S1DTNS4jj7m9xnuev0jNZlklS71VVccS6rgB4COFQBJimyfzUApZlwd3P3bqu5V3X/VMKkmRm P1dv23ZfDbDvO2VZfhSYGSEEkiS535IusTCOoxdFoTzPFb2vN6Flbq5dpeMGAAAAAElFTkSuQmCC  "
+       height="11"
+       width="10" />
+    <image
+       width="10"
+       height="11"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAALCAYAAABGbhwYAAAABHNCSVQICAgIfAhkiAAAAJtJREFU GJWNjz0Kg2AQRN+u2ljbi9h7D0/lNeIdUngmCwv7DwuVSZG/L5BoHkyxy2Ng0INhGJSmqQABattW ET2S1DTNS4jj7m9xnuev0jNZlklS71VVccS6rgB4COFQBJimyfzUApZlwd3P3bqu5V3X/VMKkmRm P1dv23ZfDbDvO2VZfhSYGSEEkiS535IusTCOoxdFoTzPFb2vN6Flbq5dpeMGAAAAAElFTkSuQmCC  "
+       id="image5727"
+       x="836.49561"
+       y="792.63989" />
+    <image
+       y="891.17572"
+       x="802.99347"
+       id="image5729"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAALCAYAAABGbhwYAAAABHNCSVQICAgIfAhkiAAAAJtJREFU GJWNjz0Kg2AQRN+u2ljbi9h7D0/lNeIdUngmCwv7DwuVSZG/L5BoHkyxy2Ng0INhGJSmqQABattW ET2S1DTNS4jj7m9xnuev0jNZlklS71VVccS6rgB4COFQBJimyfzUApZlwd3P3bqu5V3X/VMKkmRm P1dv23ZfDbDvO2VZfhSYGSEEkiS535IusTCOoxdFoTzPFb2vN6Flbq5dpeMGAAAAAElFTkSuQmCC  "
+       height="11"
+       width="10" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5731"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Newspaper"
+       transform="translate(15.765725,84.742924)"><flowRegion
+         id="flowRegion5733"><rect
+           id="rect5735"
+           width="126.1258"
+           height="59.121471"
+           x="794.19843"
+           y="725.22119" /></flowRegion><flowPara
+         id="flowPara5737">Privacy</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 851.34917,618.80467 c -29.56073,130.06724 -7.88286,181.30584 -7.88286,181.30584"
+       id="path5739"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5741"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Newspaper"
+       transform="translate(112.33079,189.19085)"><flowRegion
+         id="flowRegion5743"><rect
+           id="rect5745"
+           width="137.9501"
+           height="51.238609"
+           x="705.51624"
+           y="721.27972" /></flowRegion><flowPara
+         id="flowPara5747">Cost</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5751"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Newspaper"
+       transform="translate(51.238609,128.09867)"><flowRegion
+         id="flowRegion5753"><rect
+           id="rect5755"
+           width="161.59869"
+           height="41.385029"
+           x="567.5661"
+           y="756.75262" /></flowRegion><flowPara
+         id="flowPara5757">Authentication</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 668.07261,876.96843 C 752.81339,693.69187 843.46631,622.7461 843.46631,622.7461"
+       id="path5759"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5761"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Newspaper"
+       transform="translate(3.9414311,149.77654)"><flowRegion
+         id="flowRegion5763"><rect
+           id="rect5765"
+           width="206.92516"
+           height="35.472881"
+           x="683.83832"
+           y="809.96198" /></flowRegion><flowPara
+         id="flowPara5767">Confidentiability</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 809.96414,894.70487 C 776.46198,819.81767 845.43703,622.7461 845.43703,622.7461"
+       id="path5769"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 764.63768,947.91419 C 778.43269,713.39902 849.37846,618.80467 849.37846,618.80467"
+       id="path5771"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 72.916479,626.68753 C -252.25162,865.14413 691.7212,1038.5671 691.7212,1038.5671 882.88062,1022.8014 963.67992,912.44131 963.67992,912.44131"
+       id="path5773"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5794"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Newspaper"><flowRegion
+         id="flowRegion5796"><rect
+           id="rect5798"
+           width="178.93205"
+           height="335.3215"
+           x="691.77667"
+           y="273.32928" /></flowRegion><flowPara
+         id="flowPara5800" /></flowRoot>    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.10000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path5802"
+       sodipodi:cx="116.93985"
+       sodipodi:cy="121.87105"
+       sodipodi:rx="23.951534"
+       sodipodi:ry="24.655993"
+       d="m 140.89138,121.87105 c 0,13.61713 -10.72346,24.65599 -23.95153,24.65599 -13.22807,0 -23.951534,-11.03886 -23.951534,-24.65599 0,-13.61713 10.723464,-24.655995 23.951534,-24.655995 13.22807,0 23.95153,11.038865 23.95153,24.655995 z"
+       transform="translate(352.22846,343.67846)" />
+    <path
+       transform="translate(563.56553,345.08737)"
+       d="m 140.89138,121.87105 c 0,13.61713 -10.72346,24.65599 -23.95153,24.65599 -13.22807,0 -23.951534,-11.03886 -23.951534,-24.65599 0,-13.61713 10.723464,-24.655995 23.951534,-24.655995 13.22807,0 23.95153,11.038865 23.95153,24.655995 z"
+       sodipodi:ry="24.655993"
+       sodipodi:rx="23.951534"
+       sodipodi:cy="121.87105"
+       sodipodi:cx="116.93985"
+       id="path5804"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.10000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.10000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path5824"
+       sodipodi:cx="47.198612"
+       sodipodi:cy="232.47078"
+       sodipodi:rx="19.020336"
+       sodipodi:ry="19.724794"
+       d="m 66.218948,232.47078 c 0,10.8937 -8.515694,19.72479 -19.020336,19.72479 -10.504641,0 -19.020336,-8.83109 -19.020336,-19.72479 0,-10.8937 8.515695,-19.72479 19.020336,-19.72479 10.504642,0 19.020336,8.83109 19.020336,19.72479 z"
+       transform="translate(23.951535,381.71913)" />
+    <path
+       transform="translate(187.38554,384.53696)"
+       d="m 66.218948,232.47078 c 0,10.8937 -8.515694,19.72479 -19.020336,19.72479 -10.504641,0 -19.020336,-8.83109 -19.020336,-19.72479 0,-10.8937 8.515695,-19.72479 19.020336,-19.72479 10.504642,0 19.020336,8.83109 19.020336,19.72479 z"
+       sodipodi:ry="19.724794"
+       sodipodi:rx="19.020336"
+       sodipodi:cy="232.47078"
+       sodipodi:cx="47.198612"
+       id="path5826"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.10000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.10000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path5828"
+       sodipodi:cx="47.198612"
+       sodipodi:cy="232.47078"
+       sodipodi:rx="19.020336"
+       sodipodi:ry="19.724794"
+       d="m 66.218948,232.47078 c 0,10.8937 -8.515694,19.72479 -19.020336,19.72479 -10.504641,0 -19.020336,-8.83109 -19.020336,-19.72479 0,-10.8937 8.515695,-19.72479 19.020336,-19.72479 10.504642,0 19.020336,8.83109 19.020336,19.72479 z"
+       transform="translate(412.81175,380.31022)" />
+    <path
+       transform="translate(593.7438,385.94587)"
+       d="m 66.218948,232.47078 c 0,10.8937 -8.515694,19.72479 -19.020336,19.72479 -10.504641,0 -19.020336,-8.83109 -19.020336,-19.72479 0,-10.8937 8.515695,-19.72479 19.020336,-19.72479 10.504642,0 19.020336,8.83109 19.020336,19.72479 z"
+       sodipodi:ry="19.724794"
+       sodipodi:rx="19.020336"
+       sodipodi:cy="232.47078"
+       sodipodi:cx="47.198612"
+       id="path5830"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.10000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.10000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path5832"
+       sodipodi:cx="47.198612"
+       sodipodi:cy="232.47078"
+       sodipodi:rx="19.020336"
+       sodipodi:ry="19.724794"
+       d="m 66.218948,232.47078 c 0,10.8937 -8.515694,19.72479 -19.020336,19.72479 -10.504641,0 -19.020336,-8.83109 -19.020336,-19.72479 0,-10.8937 8.515695,-19.72479 19.020336,-19.72479 10.504642,0 19.020336,8.83109 19.020336,19.72479 z"
+       transform="translate(800.26305,380.31022)" />
+    <path
+       transform="translate(948.199,378.90131)"
+       d="m 66.218948,232.47078 c 0,10.8937 -8.515694,19.72479 -19.020336,19.72479 -10.504641,0 -19.020336,-8.83109 -19.020336,-19.72479 0,-10.8937 8.515695,-19.72479 19.020336,-19.72479 10.504642,0 19.020336,8.83109 19.020336,19.72479 z"
+       sodipodi:ry="19.724794"
+       sodipodi:rx="19.020336"
+       sodipodi:cy="232.47078"
+       sodipodi:cx="47.198612"
+       id="path5834"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.10000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 12;stroke-dashoffset:0"
+       d="m 9.6356553,385.94587 1231.3906447,0"
+       id="path5836"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path6346"
+       d="m 6.8178276,542.33531 1231.3906724,0"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 12;stroke-dashoffset:0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 12;stroke-dashoffset:0"
+       d="m 5.4089138,735.3565 1231.3906862,0"
+       id="path6348"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot14286"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Newspaper"
+       transform="translate(0,300.00213)"><flowRegion
+         id="flowRegion14288"><rect
+           id="rect14290"
+           width="156.38943"
+           height="69.036781"
+           x="1065.1389"
+           y="125.39333" /></flowRegion><flowPara
+         id="flowPara14292" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot14294"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Newspaper"
+       transform="translate(78.899175,276.05059)"><flowRegion
+         id="flowRegion14296"><rect
+           id="rect14298"
+           width="187.38554"
+           height="71.854607"
+           x="1124.3132"
+           y="114.12202" /></flowRegion><flowPara
+         id="flowPara14300"
+         style="font-family:Times New Roman;-inkscape-font-specification:Times New Roman">Business: </flowPara><flowPara
+         style="font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+         id="flowPara2996">Constraints</flowPara><flowPara
+         id="flowPara14302"
+         style="font-family:Times New Roman;-inkscape-font-specification:Times New Roman" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot14304"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Newspaper"
+       transform="translate(43.676329,292.95756)"><flowRegion
+         id="flowRegion14306"><rect
+           id="rect14308"
+           width="138.07356"
+           height="66.218948"
+           x="1165.1718"
+           y="253.60449" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+         id="flowPara2998">System: </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+         id="flowPara3002">Policies</flowPara><flowPara
+         id="flowPara14312"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Times New Roman;-inkscape-font-specification:Times New Roman" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot14314"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+       transform="translate(30.996104,288.73082)"><flowRegion
+         id="flowRegion14316"><rect
+           id="rect14318"
+           width="135.25572"
+           height="52.12981"
+           x="1177.8519"
+           y="446.62567"
+           style="font-family:Times New Roman;-inkscape-font-specification:Times New Roman" /></flowRegion><flowPara
+         id="flowPara14322"
+         style="font-family:Times New Roman;-inkscape-font-specification:Times New Roman">Service: </flowPara><flowPara
+         style="font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+         id="flowPara3006">Constract</flowPara></flowRoot>  </g>
+</svg>
