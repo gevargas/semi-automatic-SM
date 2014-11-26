@@ -1,0 +1,17 @@
+
+The provenance of a data item (also called lineage, parentage, genealogy, pedigree and filiation) explains how it was created and based on which data items and using which parameters, and also which data items were derived from it\cite{woodruff1997supporting, buneman2001and, simmhan2005survey}. It has of two facets, known as backward tracing and forward tracing, respectively, the entire derivation history of a data item, and the data items that have evolved from a given data item. \cite{bose2005lineage, ikeda2011provenance}
+
+The proposed data model includes: academic publications, their authors, the conferences where they were published and the editors of the conferences. Also, publications can have keywords associated to them.
+
+Based on the references in the publications, a dependency relation can be constructed between them. This relation can be seen as a causal relation as in data provenance. This way, it is possible to pose the questions analogous to those asked in data provenance: first, given a publication, which are the publications on which this one is based, and second, given a publication, which are the publications based on this one. In the context of data provenance, these questions are known as backward and forward tracing, respectively.
+
+Regarding the semantics of the relation between publications, all that is known is that one referenced the other, but not in which terms nor for which reason. In terms of data provenance, this is analogous to the why-provenance notion\cite{cheney2009provenance}, in which only the causal relation between the data items is identified, but not its semantics as in the how- and where-provenance notions. 
+
+Based on this graph several analyses are possible. First, it is possible to identify all publications which were based on a given one, both directly or indirectly (i.e. publications which referenced another publication which in turn referenced the given one, or with more than one intermediate publication). Thus, it is possible to quantify the impact (both directly or indirectly) a publication has, and analyze it per year, per group of keywords, etc. Based on the impact of his publications, the impact of an author can be derived. These measures can be used to estimate the quality of the publications and authors. Analogously, the quality of conferences and editors can be assessed.
+
+Regarding the assessment of the quality of a publication, the recommender system can be tuned to assign different weights to different elements, such as the impact of the publication, of its author or of the conference where it was published.
+
+The construction of this provenance graph can also enrich the retrieval phase, by pointing to previously unconsidered references which if included can lead to a more comprehensive corpus. These additional references can always be trimmed later.
+
+This data model facilitates the analysis of trends in keywords, conferences, authors.
+
