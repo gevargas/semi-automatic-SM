@@ -235,7 +235,14 @@ Provenance \sep Systematic Mapping.
 \section{A semi-automatic quality oriented systematic mapping}\label{sec:mappingprocess}
 %\input{mappingprocess}
 %..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--
-Figure XX presents the general approach that we propose for semi-automatizing the systematic mapping workflow.
+Figure \ref{fig:architecture} presents the general approach that we propose for semi-automatizing the systematic mapping workflow and introducing quality to its qualitative philosophy. 
+\begin{figure} [htpb]
+\centering
+\includegraphics[width=0.99\textwidth]{figs/SystematicMappingSystemArchitecture}
+\caption{General architecture}
+\label{fig:architecture}
+\end{figure}   
+
 
 %..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--
 \section{Defining a query and gathering data}
@@ -247,7 +254,8 @@ Figure XX presents the general approach that we propose for semi-automatizing th
 %...................................................................................
 
 %...................................................................................
-\subsection{Retrieving and filtering data}%...................................................................................
+\subsection{Retrieving and filtering data}
+%...................................................................................
 
 %..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--
 \section{Clustering and organizing data}
@@ -262,10 +270,8 @@ Figure XX presents the general approach that we propose for semi-automatizing th
 %...................................................................................
 \subsection{Computing provenance and reputation as new aggregation measures}
 %...................................................................................
+\input{provenance}
 
-
-%...................................................................................
-%...................................................................................
 %*********************************************************************************************************
 \section{Concluding remarks}\label{sec:conclusions}
 \input{conclusions}
